@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": ">=7.4.0",
-    "maximerig/php-etl": "^1.0",
+    "maximerig/php-etl": "dev-master",
     "symfony/framework-bundle": "^4.4|^5.0|^6.0",
     "symfony/messenger": "^4.4|^5.0|^6.0",
     "ext-json": "*"
