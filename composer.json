@@ -28,7 +28,7 @@
   "repositories": {
     "php-etl": {
       "type": "vcs",
-      "url": "https://github.com/MaximeRig/php-etl"
+      "url": "git@github.com:/MaximeRig/php-etl"
     }
   }
 }
